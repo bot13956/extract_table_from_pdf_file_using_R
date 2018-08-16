@@ -1,6 +1,6 @@
 # extract_table_from_pdf_file_using_R
 
-This code extracts a table from a pdf file using data wranging techniques in R.
+This code illustrates how to extract a table from a pdf file using data wranging techniques in R.
 
 trade_report.pdf: original pdf file containing table to be extracted.
 
