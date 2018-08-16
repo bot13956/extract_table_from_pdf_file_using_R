@@ -1,4 +1,4 @@
-#This code extracts a table from a pdf file using data wranging techniques in R
+#This code extracts a table from a pdf file using data wrangling techniques in R
 
 #@author: Benjamin O. Tayo
 
